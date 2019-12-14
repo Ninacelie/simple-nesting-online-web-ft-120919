@@ -101,7 +101,7 @@ def changing_alan
         }
      }
 
-		 
+
      alans_new_info = "GUI"
 
 
